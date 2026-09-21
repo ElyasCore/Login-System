@@ -1,12 +1,9 @@
-# Login System
+Login System
 
-A simple Java console-based login system that checks usernames and passwords.
+A simple Java login system with a predefined username and password.
 
-### Built with
-- Java
-- IntelliJ IDEA
+The program gives the user up to three login attempts, displays the remaining attempts after failed logins, and locks the account after three unsuccessful attempts.
 
-### Version
-v1.0
+Concepts Practiced
 
-> First version — built while learning Java fundamentals.
+String Comparison · equals() · for Loops · Counters · Conditions · Input Handling · Access Control Logic
